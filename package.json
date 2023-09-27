@@ -1,0 +1,14 @@
+{
+  "name": "isolinktechnolgy.github.io",
+  "version": "1.0.0",
+  "description": "Landing Page for Isolink Technology, an Indonesia based IOT Consultant that provides you with low cost IOT solution.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
