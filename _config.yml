@@ -6,7 +6,7 @@ baseurl: /tutorial
 url: https://isolinktechnology.github.io/
 twitter_username:
 github_username:  
-
+page.ops_url: inspekta.tech/
 # Build settings
 markdown: kramdown
 permalink: pretty

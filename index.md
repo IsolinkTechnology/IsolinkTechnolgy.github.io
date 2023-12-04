@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## Welcome Page
+<!-- ## Welcome Page -->
 Selamat datang di Inspekta! Kami sangat senang Anda bergabung. Bersama-sama, kita akan menjelajahi platform Inspekta dan memandu Anda melalui prosesnya agar Anda dapat menggunakan Inspekta dengan sebaik-baiknya. Mari kita mulai perjalanan ini dan optimalkan penggunaan platform Inspekta untuk keperluan Anda. Selamat belajar!
 
 1. [Pengenalan Konsep](./concept/)
