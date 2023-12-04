@@ -32,9 +32,14 @@ Pada proses pembuatan pertanyaan, terdapat pilihan untuk membuat pertanyaan yang
 
 **Siapa saja yang dapat mengisi form?**
 
-Pertanyaan dapat diisi oleh siapapun yang terdaftar di dalam organisasi. Pertanyaan dapat diisi kapanpun walau tidak ditugaskan kepada yang bersangkutan.
+Pertanyaan dapat diisi oleh siapapun yang terdaftar di dalam organisasi. Pertanyaan dapat diisi kapanpun walau tidak ditugaskan kepada yang bersangkutan. Pertanyaan juga dapat diisi kapanpun dan pertanyaan terbaru akan memberikan / menghilangkan alarm yang terjadi sebelumnya jika hasil form yang terakhir diisi memberikan keadaan aman.
 
 **Bagaimana sistem pembagian tugas otomatis bekerja?**
 
 Untuk pengguna dengan level bukan superuser dan bukan admin, dapat didaftarkan ke grup pengguna. Admin dan super user dapat membuat pengelompokan tugas yang akan menyambungkan grup pengguna, dengan kategori ruangan dan kategori alat. Setiap orang yang terdaftar di grup ini akan mendapatkan tugas sesuai dengan aturan frekuensi pembagian tugas dari setiap kategori ruangan dan kategori alat. 
-Penjelasan lebih lengkap cek [disini](/statinf/)
+
+Pembagian tugas tidak wajib untuk digunakan. Tanpa menggunakan pembagian tugas otomatis, QR tetap dapat di scan dan semua data akan tersimpan dengan normal. Pembagian tugas hanya memberikan bantuan untuk melakukan pembagian tugas rutin secara otomatis untuk memastikan tidak ada peralatan atau ruangan yang terlewatkan.
+
+Mulai sekarang:
+   - [Memulai Cepat](./start/)
+   - [Pelajari Lebih Dalam](./advance/)

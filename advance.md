@@ -1,6 +1,6 @@
 ---
-title: "R Programming"
-permalink: /rprog/
+title: "Penggunaan lebih mendalam"
+permalink: /advance/
 layout: page
 ---
 
