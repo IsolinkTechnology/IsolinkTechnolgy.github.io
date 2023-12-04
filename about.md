@@ -4,25 +4,8 @@ title: About
 permalink: /about/
 ---
 
-The [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) is a 9 courses series on Data Science. Every class in the series runs every month, and the course material is availible on [GitHub](https://github.com/DataScienceSpecialization/courses).
 
-### The JHU Data Science Lab:
+**Selamat datang di Inspekta: Platform Inspeksi Digital untuk Ruangan dan Peralatan**
 
-- [Brian Caffo](http://www.bcaffo.com/)
-- [Jeff Leek](http://jtleek.com/)
-- [Roger Peng](http://www.biostat.jhsph.edu/~rpeng/)
-- [Nick Carchedi](http://nickcarchedi.com/)
-- [Sean Kross](http://seankross.com/)
+Inspekta adalah sebuah platform web untuk inspeksi digital ruangan dan peralatan. Tujuan utamanya adalah memastikan bahwa semua data inspeksi disimpan dengan baik di cloud dan dapat diakses kapan saja. Selain itu, web ini juga dapat memastikan bahwa semua ruangan dan peralatan dijaga dengan baik melalui alarmnya. Inspekta dapat menghasilkan QR code unik untuk setiap peralatan dan ruangan. Namun, untuk ruangan dan peralatan yang sama, pertanyaan-pertanyaannya dapat disesuaikan sehingga mereka dapat identik dan tidak memerlukan pekerjaan yang rumit dalam membuat formulir. Hanya satu formulir untuk semua yang berisi pertanyaan yang sama. Selain itu, web ini juga dapat membagi tugas secara otomatis per jam, per hari, dan per minggu sesuai permintaan.
 
-### Community Contributors:
-
-- [Kevin Markham](http://www.dataschool.io/)
-- Derek Franks
-- David Hood
-- [Leonard Greski](https://github.com/lgreski)
-- Michael Sachs
-- Allan Inocêncio de Souza Costa
-- [stepds](https://github.com/stepds)
-- Bastiaan Quast
-- [Xing Su](http://sux13.github.io/DataScienceSpCourseNotes/)
-- [Edmund julian Ofilada](https://github.com/DocOfi)
