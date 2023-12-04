@@ -1,11 +1,11 @@
 # Site settings
-title: Data Science Specialization
+title: Tutorial Penggunaan Inspekta
 email:
-description: Community Site
+description: Tutorial Site
 baseurl:
 url:
 twitter_username:
-github_username:  DataScienceSpecialization
+github_username:  
 
 # Build settings
 markdown: kramdown
