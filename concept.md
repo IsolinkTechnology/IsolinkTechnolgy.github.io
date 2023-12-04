@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pengenalan Konsep
-permalink: /konsep/
+permalink: /concept/
 ---
 
 ## Konsep Besar
