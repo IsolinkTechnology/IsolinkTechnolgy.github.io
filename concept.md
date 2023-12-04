@@ -12,7 +12,13 @@ Inspekta adalah platform yang memudahkan pembuatan formulir pertanyaan inspeksi.
 
 Apakah ruangan-ruangan tersebut mengikuti pola pertanyaan formulir inspeksi yang sama?
 
-**Contoh:** Semua ruangan yang dikategorikan sebagai ruangan dalam memiliki pertanyaan berikut: Apakah ruangan bersih? Apakah ruangan pada suhu 23-25 derajat Celsius? Selanjutnya, untuk ruangan dalam tanpa AC, pertanyaannya adalah: Apakah ruangan bersih? Apakah jendela rapat tertutup?
+**Contoh:** Semua ruangan yang dikategorikan sebagai ruangan dalam memiliki pertanyaan berikut:
+1. Apakah ruangan bersih? 
+2. Apakah ruangan pada suhu 23-25 derajat Celsius? 
+
+Selanjutnya, untuk ruangan dalam tanpa AC, pertanyaannya adalah: 
+1. Apakah ruangan bersih? 
+2. Apakah jendela rapat tertutup?
 
 Pertanyaan-pertanyaan ini akan melekat pada setiap kategori ruangan sehingga ketika ruangan dalam kategori tersebut diinspeksi, pertanyaan inspeksi yang muncul adalah pertanyaan inspeksi kategori ruangan.
 
