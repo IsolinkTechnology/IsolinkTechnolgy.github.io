@@ -3,27 +3,22 @@ layout: page
 ---
 
 ## Welcome Page
-This site is meant to serve as a directory for the amazing content the
-community has created around the Data Science Specialization. If you are
-interested in contributing [click here](https://github.com/DataScienceSpecialization/DataScienceSpecialization.github.io#contributing).
+Selamat datang di Inspekta! Kami sangat senang Anda bergabung. Bersama-sama, kita akan menjelajahi platform Inspekta dan memandu Anda melalui prosesnya agar Anda dapat menggunakan Inspekta dengan sebaik-baiknya. Mari kita mulai perjalanan ini dan optimalkan penggunaan platform Inspekta untuk keperluan Anda. Selamat belajar!
 
-1. [Pengenalan Konsep](/concept/)
-1.1. [Memulai Cepat](/start/)
-<!-- diisi dengan semua -->
-1.2. [Pelajari Lebih Dalam](/advance/)
-2. [Pembuatan Tim](/rprog/)
-3. [Pembuatan Kategori Ruangan dan Pembuatan Kategori Peralatan](/getclean/) 
-4. [Pembuatan Ruangan](/eda/)
-5. [Pembuatan Peralatan](/repres/)
-6. [Mengedit item](/statinf/)
-7. [Menghapus item](/regmod/)
-8. [Pembagian Tugas Otomatis](/pml/)
-9. [Scan QR](/ddp/)
-10. [Membuat Pertanyaan](/capstone/)
-11. [Menjawab Pertanyaan](/capstone/)
-
-12. 
-
-
-- [Other Resources](/other/)
-- [Curated Pages](/curated/)
+1. [Pengenalan Konsep](./concept/)
+   - [Memulai Cepat](./start/)
+   - [Pelajari Lebih Dalam](./advance/)
+2. [Pembuatan Lokasi dan Pengguna](./rprog/)
+3. [Pembuatan Pengguna](./rprog/)
+4. [Pembuatan Kategori Ruangan dan Pembuatan Kategori Peralatan](./getclean/) 
+5. [Pembuatan Ruangan](./eda/)
+6. [Pembuatan Peralatan](./repres/)
+7. [Mengedit item](./statinf/)
+8. [Menghapus item](./regmod/)
+9. [Pembagian Tugas Otomatis](./pml/)
+10. [Scan QR](./ddp/)
+11. [Membuat Pertanyaan](./capstone/)
+12. [Menjawab Pertanyaan](./capstone/)
+13. [Membuat Pengelompokan Pengguna](./capstone/)
+14. [Membuat Pembagian Tugas](./capstone/)
+15. [Placeholder Topic](./placeholder/)
