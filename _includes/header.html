@@ -1,9 +1,9 @@
 <header class="site-header">
   <div class="wrap">
-    <div>
-    <img src="/images/main_logo.png" alt="Main Logo">
-    </div>
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="site-title" href="{{ site.baseurl }}/">
+      <img src="{{ "/images/main_logo.png" | prepend: site.baseurl }}" alt="Main Logo" style="margin-right: 10px;">
+      {{ site.title }}
+    </a>
     <nav class="site-nav">
       <a href="#" class="menu-icon">
         <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
