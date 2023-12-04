@@ -17,6 +17,7 @@ Apakah ruangan-ruangan tersebut mengikuti pola pertanyaan formulir inspeksi yang
 Pertanyaan-pertanyaan ini akan melekat pada setiap kategori ruangan sehingga ketika ruangan dalam kategori tersebut diinspeksi, pertanyaan inspeksi yang muncul adalah pertanyaan inspeksi kategori ruangan.
 
 **Mengapa QR setiap pertanyaan harus unik?**
+
 Tujuan utama dari pembuatan QR unik adalah:
 - Memastikan tidak ada kesalahan pengisian formulir. QR diprint dan ditempel di setiap ruangan atau peralatan. Dengan melakukan pemindaian setiap kali akan dilakukan pengisian inspeksi, dipastikan pengisian formulir tidak salah. Formulir tidak dapat diakses tanpa menggunakan proses pemindaian.
 - Mencegah kecurangan pengisian formulir tanpa melakukan inspeksi yang benar.
@@ -26,11 +27,14 @@ Setelah membuat kategori ruangan, membuat ruangan, dan membuat pertanyaan, QR da
 Sama hal nya untuk peralatan, jika terdapat banyak peralatan dengan jenis yang sama yang memiliki tipe pertanyaan yang sama, maka dapat dibuatkan kategori peralatan agar form yang ditampilkan saat pemindaian peralatan tersebut dilakukan adalah sama. Masing-masing peralatan akan memiliki QR yang unik dan berbeda.
 
 **Bagaimana sistem alarm bekerja**
+
 Pada proses pembuatan pertanyaan, terdapat pilihan untuk membuat pertanyaan yang dijawab dengan ya atau tidak, atau pertanyaan yang dijawab dengan angka. Untuk pertanyaan yang dijawab dengan ya atau tidak, setiap pertanyaan tidak akan memicu alarm. Untuk pertanyaan yang dijawab angka, ada bagian yang perlu diisi untuk memberikan batasan untuk jawaban angka. Jika jawaban melebihi angka ini, maka akan memicu alarm.
 
 **Siapa saja yang dapat mengisi form?**
+
 Pertanyaan dapat diisi oleh siapapun yang terdaftar di dalam organisasi. Pertanyaan dapat diisi kapanpun walau tidak ditugaskan kepada yang bersangkutan.
 
 **Bagaimana sistem pembagian tugas otomatis bekerja?**
+
 Untuk pengguna dengan level bukan superuser dan bukan admin, dapat didaftarkan ke grup pengguna. Admin dan super user dapat membuat pengelompokan tugas yang akan menyambungkan grup pengguna, dengan kategori ruangan dan kategori alat. Setiap orang yang terdaftar di grup ini akan mendapatkan tugas sesuai dengan aturan frekuensi pembagian tugas dari setiap kategori ruangan dan kategori alat. 
-Penjelasan lebih lengkap cek [disini](\apa_ya)
+Penjelasan lebih lengkap cek [disini](/statinf/)
