@@ -7,7 +7,7 @@ This site is meant to serve as a directory for the amazing content the
 community has created around the Data Science Specialization. If you are
 interested in contributing [click here](https://github.com/DataScienceSpecialization/DataScienceSpecialization.github.io#contributing).
 
-1. [Pengenalan Konsep](/toolbox/)
+1. [Pengenalan Konsep](/concept/)
 1.1. [Memulai Cepat](/start/)
 <!-- diisi dengan semua -->
 1.2. [Pelajari Lebih Dalam](/advance/)
