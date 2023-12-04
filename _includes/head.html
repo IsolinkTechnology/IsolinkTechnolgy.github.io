@@ -8,5 +8,37 @@
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-
+    <style>
+        :root {
+          --primary-color: #3498db; /* Deep Blue for efficiency */
+          --secondary-color: #2ecc71; /* Vibrant Green for tech */
+          --accent-color: #e74c3c; /* Energetic Red for genius */
+          --background-color: #f4f4f4; /* Light Gray for a modern look */
+          --text-color: #333; /* Dark Gray for text */
+          --navbar-color: #ebebeb; /* Light Gray for the navbar and card */
+        }
+    
+        body {
+          background-color: var(--background-color);
+          color: var(--text-color);
+          font-family: 'Your Chosen Font', sans-serif; /* Update with your preferred font */
+        }
+    
+        .site-header {
+          background-color: var(--navbar-color);
+          padding: 1rem;
+        }
+    
+        .site-title {
+          color: var(--primary-color);
+        }
+    
+        .menu-icon svg {
+          fill: var(--text-color);
+        }
+    
+        .trigger a {
+          color: var(--text-color);
+        }
+    </style>
 </head>
