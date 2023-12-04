@@ -26,7 +26,7 @@ Setelah membuat kategori ruangan, membuat ruangan, dan membuat pertanyaan, QR da
 
 Sama hal nya untuk peralatan, jika terdapat banyak peralatan dengan jenis yang sama yang memiliki tipe pertanyaan yang sama, maka dapat dibuatkan kategori peralatan agar form yang ditampilkan saat pemindaian peralatan tersebut dilakukan adalah sama. Masing-masing peralatan akan memiliki QR yang unik dan berbeda.
 
-**Bagaimana sistem alarm bekerja**
+**Bagaimana sistem alarm bekerja?**
 
 Pada proses pembuatan pertanyaan, terdapat pilihan untuk membuat pertanyaan yang dijawab dengan ya atau tidak, atau pertanyaan yang dijawab dengan angka. Untuk pertanyaan yang dijawab dengan ya atau tidak, setiap pertanyaan tidak akan memicu alarm. Untuk pertanyaan yang dijawab angka, ada bagian yang perlu diisi untuk memberikan batasan untuk jawaban angka. Jika jawaban melebihi angka ini, maka akan memicu alarm.
 
