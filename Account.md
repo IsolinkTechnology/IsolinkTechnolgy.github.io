@@ -5,7 +5,7 @@ permalink: /accounts/
 ---
 ## Membuat Akun
 Pembuatan akun hanya dapat dilakukan oleh pengguna tingkat Admin. Admin dapat mengklik ke bagian kanan dari navbar, klik ke admin.
-![admin_page](/images/admin)
+![admin_page](/images/admin.png)
 
 Halaman konfigurasi akan terbuka, berikut merupakan penjelasan dari setiap isian pada saat melakukan konfigurasi akun.
 
