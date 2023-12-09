@@ -20,6 +20,7 @@ Halaman konfigurasi akan terbuka, berikut merupakan penjelasan dari setiap isian
 | 7  | Username                    |    Nama yang akan muncul di report dan tabel tabel report       |
 | 8  | Email                       |    Email yang akan digunakan untuk login       |
 | 9  | Kata Sandi                  |    Password awal untuk akun       |
+
 * Akun superuser memiliki kewenangan untuk membuat, mengatur serta menghapus kategori untuk ruangan, peralatan, serta semua ruangan dan peralatan di dalamnya,  namun tidak memiliki autorisasi untuk membuat lokasi dan akun baru
 * * akun admin memiliki semua kewenangan superuser serta melakukan pembuatan, pengaturan, dan menghapus akun dan lokasi
 
