@@ -16,7 +16,7 @@ Setelah selesai pembuatan akun, siapkan list ruangan, peralatan, serta pertanyaa
 
 Untuk membuat ruangan, klik ruangan pada navbar:
 
-![Navbar Image](/images/navbar.png)
+![Navbar Image](/images/navbar_room.png)
 
 Untuk halaman ruangan dan equipment, terdapat tombol dengan simbol titik 3. Jika diklik, tombol ini akan memberikan menu yang berbeda beda untuk setiap halamannya. Untuk membuat kategori ruangan, klik pada tombol tersebut, kemudian tekan buat kategori ruangan baru.
 
