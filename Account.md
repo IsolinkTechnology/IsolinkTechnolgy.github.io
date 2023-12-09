@@ -5,21 +5,21 @@ permalink: /accounts/
 ---
 ## Membuat Akun
 Pembuatan akun hanya dapat dilakukan oleh pengguna tingkat Admin. Admin dapat mengklik ke bagian kanan dari navbar, klik ke admin.
-[!admin_page](/images/navbar_admin)
+![admin_page](/images/navbar_admin)
 
 Halaman konfigurasi akan terbuka, berikut merupakan penjelasan dari setiap isian pada saat melakukan konfigurasi akun.
 
 | No | Judul                       | Deskripsi |
 |----|-----------------------------|-----------|
-| 1  | Nama Lengkap                |           |
-| 2  | Peran                       |           |
-| 3  | Pengguna Aktif              |           |
-| 4  | Izinkan Otorisasi Superuser |           |
-| 5  | Izinkan Otorisasi Admin     |           |
-| 6  | Pilih Lokasi                |           |
-| 7  | Username                    |           |
-| 8  | Email                       |           |
-| 9  | Kata Sandi                  |           |
+| 1  | Nama Lengkap                |    Isi dengan nama lengkap user       |
+| 2  | Peran                       |    Isi dengan peran user di company anda       |
+| 3  | Pengguna Aktif              |     Isi ya jika akun aktif, Isi tidak jika akun ingin di nonaktifkan      |
+| 4  | Izinkan Otorisasi Superuser |    Isi ya untuk otorisasi superuser*       |
+| 5  | Izinkan Otorisasi Admin     |    Isi ya untuk otorisasi admin**       |
+| 6  | Pilih Lokasi                |    Isi tidak terbatas untuk superuser dan admin, isi dengan lokasi untuk memaksa akun hanya dapat melihat ke salah satu lokasi       |
+| 7  | Username                    |    Nama yang akan muncul di report dan tabel tabel report       |
+| 8  | Email                       |    Email yang akan digunakan untuk login       |
+| 9  | Kata Sandi                  |    Password awal untuk akun       |
 
 
 
