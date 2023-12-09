@@ -23,6 +23,7 @@ Halaman konfigurasi akan terbuka, berikut merupakan penjelasan dari setiap isian
 | 9  | Kata Sandi                  |    Password awal untuk akun       |
 
 (*) Akun superuser memiliki kewenangan untuk membuat, mengatur serta menghapus kategori untuk ruangan, peralatan, serta semua ruangan dan peralatan di dalamnya,  namun tidak memiliki autorisasi untuk membuat lokasi dan akun baru
+
 (**) akun admin memiliki semua kewenangan superuser serta melakukan pembuatan, pengaturan, dan menghapus akun dan lokasi
 
 ## Membaca Akun
