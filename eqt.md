@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Regression Models
-permalink: /regmod/
+title: Peralatan
+permalink: /eqt/
 ---
 
 ## Supplementary Videos
