@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Question
+title: Pertanyaan
 permalink: /question/
 ---
 
