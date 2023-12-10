@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rooms
+title: Ruangan
 permalink: /rooms/
 ---
 
