@@ -4,13 +4,19 @@ title: Pertanyaan
 permalink: /question/
 ---
 
-- [Turning a RPubs document into a Github website walkthrough](https://github.com/thoughtfulbloke/appleorange)
-- [Introduction to knitr with rmarkdown](https://sachsmc.github.io/knit-git-markr-guide/knitr/knit.html)
-- [Trends and severity of Data Breaches](http://rpubs.com/ww44ss/29389)
-- [Benefit-cost analysis of a park user fee](https://rstudio-pubs-static.s3.amazonaws.com/72135_dc45211d976842c2a9a8c8b5f2472ff0.html)
-- [Data Lake Integrity](http://rpubs.com/rshane/81297)
-- [ProjectTemplate in RStudio with Git](http://padamson.github.io/r/rstudio/projecttemplate/git/2016/01/17/projecttemplate-in-rstudio-with-git.html)
+Setiap pertanyaan dibuat di dalam kategori ruangan atau kategori peralatan. Pertanyaan yang dibuat di masing masing kategori ini akan secara otomatis terikat pada kategori tersebut, sehingga ketika form untuk alat ditampilkan untuk diisi, pertanyaan yang ditunjukkan merupakan pertanyaan kategorinya. 
 
-## Comprehensive Notes
+Dengan pembuatan pertanyaan di kategori, maka jika kategori ini mengandung 100 device yang identik, tidak perlu dilakukan pembuatan 100 kuisioner masing masingnya tapi cukup melakukan pengaturan pada kategori saja dan semuanya akan mengikuti perubahan tersebut.
 
-- Complete notes for [Reproducible Research](http://sux13.github.io/DataScienceSpCourseNotes/)
+## Pembuatan Pertanyaan
+Untuk membuat pertanyaan, masuk terlebih dahulu ke halaman detail dari salah satu kategori (bisa kategori ruangan ataupun kategori peralatan. Setelah itu, tekan tombol dengan titik tiga, kemudian pilih buat pertanyaan. 
+
+Berikut merupakan tabel yang menjelaskan masing masing field isian ketika melakukan konfigurasi pada pertanyaan.
+
+
+
+## Melihat Pertanyaan
+Melihat pertanyaan dapat dilakukan oleh siapapun yang terdaftar dalam organisasi. Melihat list pertanyaan yang terikat pada suatu kategori.
+
+## Mengapus Pertanyaan
+Menghapus pertanyaan dapat dilakukan dengan dua cara yaitu.....
