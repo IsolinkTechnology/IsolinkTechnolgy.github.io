@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Exploratory Data Analysis
-permalink: /eda/
+title: Lokasi
+permalink: /location/
 ---
 
 - [Creating a Kite Graph](http://rpubs.com/thoughtfulbloke/kitegraph)
@@ -14,3 +14,6 @@ permalink: /eda/
 ## Comprehensive Notes
 
 - Complete notes for [Exploratory Data Analysis](http://sux13.github.io/DataScienceSpCourseNotes/)
+
+[![Baca Selanjutnya](./account)](./account)
+
