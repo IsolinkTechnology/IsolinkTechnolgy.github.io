@@ -15,5 +15,5 @@ permalink: /location/
 
 - Complete notes for [Exploratory Data Analysis](http://sux13.github.io/DataScienceSpCourseNotes/)
 
-[![Baca Selanjutnya](./account)](./account)
+[Baca Selanjutnya](./accounts)
 
