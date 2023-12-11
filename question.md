@@ -20,3 +20,5 @@ Melihat pertanyaan dapat dilakukan oleh siapapun yang terdaftar dalam organisasi
 
 ## Mengapus Pertanyaan
 Menghapus pertanyaan dapat dilakukan dengan dua cara yaitu.....
+
+[Baca Selanjutnya](./answer)

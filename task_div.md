@@ -35,3 +35,4 @@ permalink: /task_div/
 
 - Step by step instructions to [implement parallel processing in caret::train()](https://github.com/lgreski/datasciencectacontent/blob/master/markdown/pml-randomForestPerformance.md) on a random forest model, along with runtime performance analysis for a variety of laptops, ranging from an Intel Atom-based tablet to a quad-core i7 processor. 
 
+[Baca Selanjutnya](./scan_qr)

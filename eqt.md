@@ -11,3 +11,5 @@ permalink: /eqt/
 ## Comprehensive Notes
 
 - Complete notes for [Regression Models](http://sux13.github.io/DataScienceSpCourseNotes/)
+
+[Baca Selanjutnya](./task_div)

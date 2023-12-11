@@ -41,4 +41,4 @@ Proses pengeditan hanya dapat dilakukan oleh admin. Pengeditan dilakukan dengan 
 ## Menghapus Akun
 Proses penghapusan akun hanya dapat dilakukan oleh admin. Proses penghapusan tidak akan menghilangkan nama tersebut dari report yang mana pelaporan sebelumnya diisi oleh akun tersebut.
 
-[Baca Selanjutnya](./rooms)
+[Baca Selanjutnya](./category)
