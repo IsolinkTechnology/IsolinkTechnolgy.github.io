@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Statistical Inference
-permalink: /statinf/
+title: Pindai QR
+permalink: /scan_qr/
 ---
 
 - [Why degrees of freedom decrease for sample variance](https://github.com/Manu58/bias/blob/master/bias.pdf)

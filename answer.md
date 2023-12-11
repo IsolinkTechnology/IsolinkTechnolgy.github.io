@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Other Resources
-permalink: /other/
+title: Menjawab Pertanyaan
+permalink: /answer/
 ---
 
 ## Configuring R and RStudio (Linux)

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Practical Machine Learning
-permalink: /pml/
+title: Pembagian Tugas
+permalink: /task_div/
 ---
 
 ## Model Evaluation

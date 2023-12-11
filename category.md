@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Getting and Cleaning Data
-permalink: /getclean/
+title: Mengenai Kategori
+permalink: /category/
 ---
 
 - [Subsetting example walkthrough](http://rpubs.com/thoughtfulbloke/subset)
