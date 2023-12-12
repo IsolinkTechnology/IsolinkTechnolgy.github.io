@@ -24,5 +24,40 @@ Dengan pembuatan kategori air conditioner diatas, maka setiap pertanyaan yang di
 
 Sama hal nya dengan WC lantai 1. Jika QR ruangan ini dipindai, maka akan ditampilkan pertanyaan yang dibuat untuk ruangan WC.
 
+Pembuatan kategori dapat dilakukan dengan cara klik ruangan atau peralatan pada navbar. Kemudian, klik tombol lingkaran dengan 3 titik, pilih buat kategori ruangan atau pilih buat kategori peralatan baru. Setelah itu, halaman yang berisi form konfigurasi akan muncul.
+
+## Kategori Ruangan
+
+| No | Judul | Deskripsi |
+|----|-------|-----------|
+| 1  |       |           |
+| 2  |       |           |
+| 3  |       |           |
+
+## Toolbox pada Laman Kategori Ruangan
+
+| No | Judul | Deskripsi |
+|----|-------|-----------|
+| 1  |       |           |
+| 2  |       |           |
+| 3  |       |           |
+
+## Kategori Peralatan
+
+| No | Judul | Deskripsi |
+|----|-------|-----------|
+| 1  |       |           |
+| 2  |       |           |
+| 3  |       |           |
+
+## Toolbox pada Laman Kategori Peralatan
+
+| No | Judul | Deskripsi |
+|----|-------|-----------|
+| 1  |       |           |
+| 2  |       |           |
+| 3  |       |           |
+
+
 [Baca Selanjutnya](./rooms)
 
