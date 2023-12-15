@@ -4,19 +4,18 @@ title: Pindai QR
 permalink: /scan_qr/
 ---
 
-- [Why degrees of freedom decrease for sample variance](https://github.com/Manu58/bias/blob/master/bias.pdf)
-- [CONCEPTS: Calculating Area for a Point on the Normal Curve](http://bit.ly/2hw5AMF) Reviews the mathematics that explain why one cannot calculate the exact proability for a specific value within a distribution for a continuous variable, and illustrates how to calculate a quantile for a point on the curve. 
-- [Analysis of exponential distribution of births data set from the CDC](https://gist.github.com/ProgramErgoSum/5316008387746fcd84de)
-- [Exponential Distribution / Central Limit Theorem - Assignment Checklist](https://github.com/lgreski/datasciencectacontent/blob/master/markdown/statinf-expDistChecklist.md)
-- [ToothGrowth Analysis - Assignment Checklist](https://github.com/lgreski/datasciencectacontent/blob/master/markdown/ToothGrowthChecklist.md)
-- [Exploratory Data Analysis in ToothGrowth Assignment](https://github.com/lgreski/datasciencectacontent/blob/master/markdown/edaInToothGrowthAnalysis.md), explaining the exploratory data analysis requirement for students who have not taken the *Exploratory Data Analysis* course prior to taking *Statistical Inference*. 
-- [Using MathJax with Discussion Forums, R Markdown, and Github Pages](https://github.com/lgreski/datasciencectacontent/blob/master/markdown/mathjaxWithGithubMarkdown.md)
-- [Kable Tables with Data Frames](https://github.com/lgreski/datasciencectacontent/blob/master/markdown/kableDataFrameTable.md) illustrates how to display a custom table in a `knitr()` document by creating a data frame to contain the information to be rendered with `kable()`.
-- [Interactive Confidence Interval Visualization](https://github.com/amcadie/interactive_CI)
-- [Installing MiKTeK on Windows 10 / Generate a PDF from knitr](https://github.com/lgreski/datasciencectacontent/blob/master/markdown/statinf-generatePDF.md)
-- [Power calculations: optimal szmple size](https://github.com/lgreski/datasciencectacontent/blob/master/markdown/statinf-optimalSampleSize.md)
-- [Permutation Tests Explained](https://github.com/lgreski/datasciencectacontent/blob/master/markdown/statinf-permutationTests.md)
 
-## Comprehensive Notes
+## QR
+Setelah Ruangan dan Peralatan sudah dibuat, QR dapat di download oleh admin dan superuser untuk di tempel di lokasi (baik itu ruangan ataupun peralatan).
+QR dapat didapatkan dari kategori untuk mengunduh secara banyak sekaligus, atau dari detail setiap ruangan dan peralatan untuk mengunduh satu per satu. Mengunduh dari kategori akan mendapatkan semua ruangan / peralatan yang terlingkupi di dalam kategori tersebut secara sekaligus.
 
-- Complete notes for [Statistical Inference](http://sux13.github.io/DataScienceSpCourseNotes/)
+Untuk mendownload QR itu, dapat dengan mengklik tombol dengan titik 3 di halaman detail kategori (untuk unduh beberapa QR sekaligus). 
+Untuk download QR secara satu per satu, dapat dilakukan di tombo titik  3 di halaman detail ruangan atau peralatan.
+
+
+## Pindai QR
+QR yang di download dapat dipindai dengan pemindai yang disediakan di web. Tekan tombol Pindai QR pada navbar.
+Anda harus mengizinkan web ini untuk mengakses kamera untuk memindai. Setelah terbuka, silakan pilih kamera belakang, dan pilih mulai pindai.
+Setelah itu, Pindai QR dengan mengarahkan QR ke bagian tengah dari pemindai. Setelah pemindai berkedip warna hijau, akan muncul tombol dengan tulisan isi kuisioner. Dengan memencet isi kuisioner, kuisioner akan tampil dan pertanyaan dapat segera diisi. Namun pada tahap ini, anda belum membuat pertanyaan sehingga kuisioner akan muncul tanpa pertanyaan. 
+
+Jika anda menekan tombol kirim, kuisioner dapat terkirim dan menghasilkan pernyataan berhasil

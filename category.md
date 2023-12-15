@@ -11,14 +11,15 @@ Pada Inspekta Kategori merupakan grup yang mencakup ruangan atau peralatan di da
 
 Misalnya dibuat peralatan pada suatu kategori peralatan sebagai berikut
 
-*kategori: Air Conditioner
-** Air Conditioner A
-** Air Conditioner B
-** Standing Air Conditioner C
+* Kategori: Air Conditioner
+  * Air Conditioner A
+  * Air Conditioner B
+  * Standing Air Conditioner C
 
-*kategori ruangan: WC
-** WC lantai 1
-** WC lantai 2
+* Kategori Ruangan: WC
+  * WC Lantai 1
+  * WC Lantai 2
+
 
 Dengan pembuatan kategori air conditioner diatas, maka setiap pertanyaan yang dibuat pada kategori tersebut akan ditampilkan ketika QR Air Conditioner A dipindai. 
 
