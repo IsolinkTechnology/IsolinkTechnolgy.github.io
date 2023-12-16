@@ -4,33 +4,20 @@ title: Menjawab Pertanyaan
 permalink: /answer/
 ---
 
-## Configuring R and RStudio (Linux)
+## Menjawab Pertanyaan
 
-- [Installing xlsx and XML packages on Debian Wheezy](http://allanino.me/blog/programming/installing-some-r-packages/)
-- [Rscript to customize R environment](http://bit.ly/r-customize-script) - Installs packages used in the specialization.
-- [Installing Some Basic R Packages in Ubuntu; Ibrahim El Merehbi](http://elmerehbi.wordpress.com/2014/09/09/installing-some-basic-r-packages-in-ubuntu)
-- [Using Projects in RStudio](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects)
-- [Using Version Control with RStudio](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN)
-- [Using R behind HTTP/HTTPS Proxy](https://support.rstudio.com/hc/en-us/articles/200488488-Configuring-R-to-Use-an-HTTP-or-HTTPS-Proxy)
+Kuisioner yang tampil dari proses pemindaian QR dapat diisi. Dengan sederhana, Inspekta membaca konfigurasi kategori yang mana ruangan atau peralatan tersebut terdaftar, dan menampilkan pertanyaan sesuai dengan apa yang telah didaftarkan pada kategori tersebut.
+Berdasarkan pengiriman jawaban ini, Inspekta akan merekam setiap jawaban dan langsung menganalisis jawaban tersebut sehingga kemudian menyatakan bilamana jawaban tersebut aman, atau bermasalah (memicu alarm). Apabila jawaban memicu alarm, Inspekta juga akan memunculkan Tombol Acknowledge yang hanya dapat diisi oleh superuser. Hal ini bertujuan agar data tersimpan lebih rapi beserta dengan status pengakuan alarm yang terjadi dari level superuser.
 
-### Ignoring R & RStudio files
-- [gitignore template for R](https://github.com/github/gitignore/blob/master/R.gitignore) (source:[gitignore](https://github.com/github/gitignore))
-- [Github Help - Using Git / Ignoring files](https://help.github.com/articles/ignoring-files/)
+## Alarm
 
-## Troubleshooting
-- [Windows batch file to work around RStudio startup issues](https://github.com/stepds/contrib-DataScienceSpecialization/blob/master/README.md)
+Pada halaman dashboard, akan ditampilkan alat alat yang memicu alarm. Jika terpicu, pada setiap baris pada komponen tersebut akan ada tombol ACK. Tombol ACK dapat diklik oleh super user.
 
-## Pre-built virtual machines for R development.
-- [Here's a pre-built lightweight Linux machine with R and RStudio already installed](https://github.com/queirozfcom/r-box). You just need to install [vagrant](https://www.vagrantup.com/downloads.html), download (or clone) the github repository and you'll get a clean ubuntu machine with the tools you'll need for the assignments. 
+![Acknowledge_in_dashboard](/images/ack_dashboard.png)
 
-- [Data Science Toolbox](http://datasciencetoolbox.org/) - A virtual environment that allows you to start doing data science in a matter of minutes.
+Pada halaman kategori, setiap alat akan didampingi dengan 2 buah titik berwarna. Keadaan paling noromal adalah kedua titik harus berwarna hijau. Apabila titik pertama berwarna merah, berarti objek tersebut memiliki hasil pengecekan terakhir yang memicu alarm. Jika titik kedua berwarna kuning, berarti objek bermasalah tersebut belum diketahui atau belum diakui oleh level superuser. Jika sudah di acknowledge dengan menekan tombol acknowledge di bagian kanannya, maka akan dengan segera berubah menjadi hijau.
 
-- [Virtual machine with RStudio server and github setup](https://github.com/tboloo/vagrant-rstudio) - A VirtualBox, Vagrant & chef-solo managed virtual machine which provides RStudio server with git & github setup
-
-## Deploying and sharing Shiny Apps with Docker
-- [Dockerize a Shiny App](http://www.rmining.net/2015/04/30/dockerizing-a-shiny-app/)
-- [Git pushing Shiny Apps with Docker/Dokku](http://www.rmining.net/2015/05/11/git-pushing-shiny-apps-with-docker-dokku/)
-- [Share your Shiny Apps with Docker and Kitematic](http://www.rmining.net/2015/08/10/share-your-shiny-apps-with-docker-and-kitematic/)
+![Acknowledge_in_eqt](/images/ack_eqt.png)
 
 
 [Baca Selanjutnya](./task_div)

@@ -18,4 +18,6 @@ QR yang di download dapat dipindai dengan pemindai yang disediakan di web. Tekan
 Anda harus mengizinkan web ini untuk mengakses kamera untuk memindai. Setelah terbuka, silakan pilih kamera belakang, dan pilih mulai pindai.
 Setelah itu, Pindai QR dengan mengarahkan QR ke bagian tengah dari pemindai. Setelah pemindai berkedip warna hijau, akan muncul tombol dengan tulisan isi kuisioner. Dengan memencet isi kuisioner, kuisioner akan tampil dan pertanyaan dapat segera diisi. Namun pada tahap ini, anda belum membuat pertanyaan sehingga kuisioner akan muncul tanpa pertanyaan. 
 
-Jika anda menekan tombol kirim, kuisioner dapat terkirim dan menghasilkan pernyataan berhasil
+Jika anda menekan tombol kirim, kuisioner dapat terkirim dan menghasilkan pernyataan berhasil.
+
+[Baca Selanjutnya](./question)
