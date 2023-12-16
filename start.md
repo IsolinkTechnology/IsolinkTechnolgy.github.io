@@ -35,3 +35,5 @@ Setelah setiap ruangan dan pertanyaan selesai dikonfigurasi, pada halaman katego
 Sampai di tahap ini, QR dapat dipindai, kuisioner berisi pertanyaan yang dibuat akan dapat dijawab dan data akan tercatat secara otomatis ketika anda menekan submit. Sistem alarm juga langsung otomatis bekerja dan inspeksi rutin anda sudah bisa dimulai.
 Pola yang sama berlaku untuk pembuatan peralatan. Rincian untuk pengaturan peralatan dapat dilihat di [sini](../eqt/).
 
+
+[Baca selanjutnya](./location/)

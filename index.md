@@ -7,7 +7,6 @@ Selamat datang di Inspekta! Kami sangat senang Anda bergabung. Bersama-sama, kit
 
 1. [Pengenalan Konsep](./concept/)
    - [Memulai Cepat](./start/)
-   - [Pelajari Lebih Dalam](./advance/)
 2. [Pembuatan Lokasi dan Pengguna](./location/)
 3. [Pembuatan Pengguna](./accounts/)
 4. [Pembuatan Kategori Ruangan dan Pembuatan Kategori Peralatan](./category/) 
@@ -17,5 +16,3 @@ Selamat datang di Inspekta! Kami sangat senang Anda bergabung. Bersama-sama, kit
 8. [Membuat Pertanyaan](./question/)
 9. [Menjawab Pertanyaan](./answer/)
 10. [Pembagian Tugas Otomatis](./task_div/)
-11. [Membuat Pengelompokan Pengguna](./user_grp/)
-12. [Placeholder Topic](./placeholder/)
