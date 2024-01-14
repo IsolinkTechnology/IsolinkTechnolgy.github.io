@@ -20,4 +20,4 @@ Pada halaman kategori, setiap alat akan didampingi dengan 2 buah titik berwarna.
 ![Acknowledge_in_eqt](/images/ack_eqt.png)
 
 
-[Baca Selanjutnya](./task_div)
+[Baca Selanjutnya](/task_div)

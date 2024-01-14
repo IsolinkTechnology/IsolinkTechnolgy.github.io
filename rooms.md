@@ -29,4 +29,4 @@ Penghapusan dan pengeditan juga di list ruangan. Cara untuk menghapus melalui li
 Penghapusan hanya dapat dilakukan oleh admin dan superuser. Penghapusan ruangan baru dapat dilakukan apabila tidak ada peralatan yang dimasukkan ke dalam ruangan tersebut.
 
 
-[Baca Selanjutnya](./eqt/)
+[Baca Selanjutnya](/eqt/)

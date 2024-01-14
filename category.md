@@ -87,5 +87,5 @@ Setelah selesai, anda akan ditampilkan detail dari kategori ruangan yang baru sa
 | 10  |   Laporan   |Menu ini berfungsi untuk melihat report terbaru dari setiap peralatan yang terdaftar pada kategori yang sedang dilihat|Admin dan Superuser|
 
 
-[Baca Selanjutnya](./rooms)
+[Baca Selanjutnya](/rooms)
 

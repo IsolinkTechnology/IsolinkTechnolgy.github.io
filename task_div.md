@@ -21,4 +21,4 @@ Melihat tugas yang sudah dibagi dapat dilakukan dengan klik ke menu di navbar, k
 
 ![Lihat Tugas]](/images/lihat_tugas.png)
 
-[Kembali ke Daftar Isi](./index)
+[Kembali ke Daftar Isi](/index)

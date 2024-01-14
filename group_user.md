@@ -5,4 +5,4 @@ permalink: /user_grp/
 ---
 
 
-[Baca Selanjutnya](./next)
+[Baca Selanjutnya](/next)

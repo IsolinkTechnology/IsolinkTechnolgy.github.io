@@ -22,5 +22,5 @@ Pada halaman tersebut, ada 2 tabel. Tabel ke-2 menunjukkan tabel lokasi. Pembuat
 
 Penghapusan dan pengubahan lokasi dapat dilakukan pada tabel yang sama.
 
-[Baca Selanjutnya](./accounts)
+[Baca Selanjutnya](/accounts)
 

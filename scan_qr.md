@@ -20,4 +20,4 @@ Setelah itu, Pindai QR dengan mengarahkan QR ke bagian tengah dari pemindai. Set
 
 Jika anda menekan tombol kirim, kuisioner dapat terkirim dan menghasilkan pernyataan berhasil.
 
-[Baca Selanjutnya](./question)
+[Baca Selanjutnya](/question)

@@ -31,4 +31,4 @@ Penghapusan dan pengeditan juga di list peralatan. Cara untuk menghapus melalui 
 Penghapusan hanya dapat dilakukan oleh admin dan superuser.
 
 
-[Baca Selanjutnya](./scan_qr)
+[Baca Selanjutnya](/scan_qr)

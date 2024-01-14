@@ -47,5 +47,5 @@ Untuk pengguna dengan level bukan superuser dan bukan admin, dapat didaftarkan k
 Pembagian tugas tidak wajib untuk digunakan. Tanpa menggunakan pembagian tugas otomatis, QR tetap dapat di scan dan semua data akan tersimpan dengan normal. Pembagian tugas hanya memberikan bantuan untuk melakukan pembagian tugas rutin secara otomatis untuk memastikan tidak ada peralatan atau ruangan yang terlewatkan.
 
 Mulai sekarang:
-   - [Memulai Cepat](../start/)
-   - [Pelajari Lebih Dalam](../advance/)
+   - [Memulai Cepat](/start/)
+   - [Pelajari Lebih Dalam](/advance/)

@@ -43,4 +43,4 @@ Untuk menjaga integritas data, tidak diadakan pilihan hapus pertanyaan melainkan
 ## Pratinjau Formulir
 Untuk melihat bentuk kuisioner yang nanti akan ditampilkan saat pengisian kuisioner, anda dapat memilih pratinjau formulir.
 
-[Baca Selanjutnya](./answer)
+[Baca Selanjutnya](/answer)
