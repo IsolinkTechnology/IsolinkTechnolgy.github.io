@@ -28,9 +28,13 @@ Sama hal nya dengan WC lantai 1. Jika QR ruangan ini dipindai, maka akan ditampi
 Pembuatan kategori dapat dilakukan dengan cara klik ruangan atau peralatan pada navbar. 
 
 ![navbar_ruangan](/images/kategori_ruangan.png)
+
+
 ![navbar_ruangan](/images/kategori_peralatan.png)
 
 Kemudian, klik tombol lingkaran dengan 3 titik, pilih buat kategori ruangan atau pilih buat kategori peralatan baru. Setelah itu, halaman yang berisi isian konfigurasi akan muncul.
+
+
 ![tombol3titik](/images/tomboltitik3.png)
 
 
@@ -43,6 +47,11 @@ Kemudian, klik tombol lingkaran dengan 3 titik, pilih buat kategori ruangan atau
 | 3  |    Frekuensi Pengecekan   |     Isi dengan frekuensi pengecekan.(*)      |
 
 (*) Apabila keseluruhan sistem pembagian tugas otomatis digunakan, maka nilai dari isian ini akan dijadikan patokan oleh sistem untuk melakukan pembagian kerja.
+Pengisian hourly pada frekuensi pengecekan akan memberikan pembagian tugas setiap jam. 
+Akan muncul isian tambahan untuk mendetilkan pembagian per jam ini diberikan dari jam berapa hingga jam berapa
+
+Jika diisi daily, maka akan ada pilihan pembagian tugas ini akan dilakukan pada pukul berapa. Jika diisi weekly, akan muncul isian untuk mengisi pembagian tugas akan dilakukan pada hari apa saja.
+Jika diisi monthly, akan muncul isian untuk mengisi pembagian tugas diisi pada tanggal berapa setiap bulannya.
 
 Setelah selesai, anda akan ditampilkan detail dari kategori ruangan yang baru saja dibuat. Berikut akan dijelaskan isi dari setiap menu yang ada pada menu titik tiga.
 
