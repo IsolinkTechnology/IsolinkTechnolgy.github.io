@@ -19,6 +19,6 @@ Setelah semua dilakukan, maka sistem akan otomatis melakukan pembagian tugas ses
 
 Melihat tugas yang sudah dibagi dapat dilakukan dengan klik ke menu di navbar, kemudian lihat tugas aktif untuk admin dan superuser, atau lihat tugas saya untuk non admin dan non superuser.
 
-![Lihat Tugas]](lihat_tugas.png)
+![Lihat Tugas]](/images/lihat_tugas.png)
 
 [Kembali ke Daftar Isi](./index)
