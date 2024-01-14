@@ -7,7 +7,7 @@ permalink: /task_div/
 ## Pembagian tugas
 Untuk mengimplementasikan fitur pembagian tugas dari inspekta, perlu dilakukan pembuatan pembagian tugas.  Yang dilakukan dari suatu pembagian tugas adalah menghubungkan kelompok pengguna, ke kategori ruangan serta kategori peralatan. Dengan begitu, Inspekta akan secara otomatis membagi peraltan dan ruangan yang termasuk dalam kategori ke setiap pengguna dalam kelompok itu. Setiap pengguna yang terbatas pada lokasi tertentu hanya akan mendapatkan tugas yang mana dirinya terikat. Pembagian dilakukan secara random dalam kelompok pengguna tersebut.
 
-Tahap pertama yang perlu dilakukan adalah untuk melakukan pengelompokan pengguna. Pada Navbar, pilih pengelompokan user
+Tahap pertama yang perlu dilakukan adalah untuk melakukan pengelompokan pengguna. Pada Navbar, pilih pengelompokan user.
 
 ![Pengelompokan_user](/images/usr_grp.png)
 
